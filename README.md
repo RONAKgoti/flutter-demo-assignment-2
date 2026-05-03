@@ -1,16 +1,35 @@
-# flutter_demo
+# Dart Basics (Part 1)
 
-A new Flutter project.
+This repository contains Dart basic programs created for assignment submission.
 
-## Getting Started
+## Files Included
 
-This project is a starting point for a Flutter application.
+- main.dart
+- variables.dart
+- operators.dart
+- conditions.dart
+- loops.dart
+- input.dart
 
-A few resources to get you started if this is your first Flutter project:
+## Topics Covered
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Variables and Data Types
+- Operators
+- If Else Statements
+- Switch Case
+- For Loop
+- While Loop
+- Do While Loop
+- Input and Output
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output Screenshots
+
+### Program Output 1
+![Output1](Screenshot%202026-05-03%20114639.png)
+
+### Program Output 2
+![Output2](Screenshot%202026-05-03%20114702.png)
+
+## Result
+
+All programs executed successfully without errors.
